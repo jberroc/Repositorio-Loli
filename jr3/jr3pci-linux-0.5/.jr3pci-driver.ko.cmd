@@ -1,0 +1,1 @@
+cmd_/home/teo/repos/LoliRepo/jr3/jr3pci-linux-0.5/jr3pci-driver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/teo/repos/LoliRepo/jr3/jr3pci-linux-0.5/jr3pci-driver.ko /home/teo/repos/LoliRepo/jr3/jr3pci-linux-0.5/jr3pci-driver.o /home/teo/repos/LoliRepo/jr3/jr3pci-linux-0.5/jr3pci-driver.mod.o
